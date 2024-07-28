@@ -1,9 +1,8 @@
 +++
-title = 'Solid Principles'
+title = 'SOLID Principles: A Comprehensive Guide'
 date = 2024-06-26T05:28:39-03:00
 draft = false
-tags = ["SOLID", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"] 
-# categories = [shape, design]
+tags = ["SOLID", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
 +++
 
 # SOLID Principles: A Comprehensive Guide

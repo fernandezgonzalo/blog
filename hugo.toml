@@ -555,7 +555,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Syntax Highlighting
   [markup.highlight]
     codeFences = true
-    guessSyntax = true
+    # guessSyntax = true
     lineNos = true
     lineNumbersInTable = true
     # false is a necessary configuration

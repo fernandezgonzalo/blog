@@ -1,5 +1,5 @@
 +++
-title = 'The Single Responsibility Principle'
+title = 'The Single Responsibility Principle: A Deep Dive'
 date = 2024-06-26T05:54:58-03:00
 draft = false
 tags = ["SOLID", "Single Responsibility", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
