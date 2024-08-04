@@ -2,6 +2,7 @@
 title = 'Interface Segregation Principle: A Comprehensive Guide'
 date = 2024-07-31T10:45:47-03:00
 draft = false
+tags = ["SOLID", "Interface Segregation", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
 +++
 
 # Interface Segregation Principle: A Comprehensive Guide

@@ -2,6 +2,7 @@
 title = 'The Open-Closed Principle'
 date = 2024-07-28T18:55:34-03:00
 draft = false
+tags = ["SOLID", "Open Closed", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
 +++
 
 # The Open-Closed Principle (OCP)

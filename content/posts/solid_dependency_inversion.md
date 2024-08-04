@@ -2,6 +2,7 @@
 title = 'Inverting the Pyramid: A Deep Exploration of the Dependency Inversion Principle'
 date = 2024-07-31T10:55:03-03:00
 draft = false
+tags = ["SOLID", "Dependency Inversion", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
 +++
 
 # Inverting the Pyramid: A Deep Exploration of the Dependency Inversion Principle

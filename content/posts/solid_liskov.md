@@ -2,6 +2,7 @@
 title = 'The Liskov Substitution Principle: An In-Depth Exploration'
 date = 2024-07-31T10:36:02-03:00
 draft = false
+tags = ["SOLID", "Liskov Substitution", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
 +++
 # The Liskov Substitution Principle: An In-Depth Exploration
 
