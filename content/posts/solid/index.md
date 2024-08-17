@@ -1,9 +1,12 @@
-+++
-title = 'SOLID Principles: A Comprehensive Guide'
-date = 2024-06-26T05:28:39-03:00
-draft = false
-tags = ["SOLID", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
-+++
+---
+title: 'SOLID Principles: A Comprehensive Guide'
+date: 2024-06-26T05:28:39-03:00
+draft: false
+tags: ["SOLID", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
+resources:
+- name: "featured-image"
+  src: "solid.png"
+---
 
 # SOLID Principles: A Comprehensive Guide
 

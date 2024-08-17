@@ -199,8 +199,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
   # Social config about the author
   [params.social]
-    GitHub = "https://github.com/fernandezgonzalo"
-    Linkedin = "https://www.linkedin.com/in/fernandezgonza/"
+    GitHub = "fernandezgonzalo"
+    Linkedin = "fernandezgonza/"
     Email = "fernandezgonzalosebastian@gmail.com"
     RSS = true # 
 
@@ -231,7 +231,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
       #  whether to keep the static table of the contents in front of the post
       keepStatic = false
       # whether to make the table of the contents in the sidebar automatically collapsed
-      auto = true
+      auto = false
     #  KaTeX mathematical formulas
     [params.page.math]
       enable = true
