@@ -1,9 +1,13 @@
-+++
-title = 'The Twelve-Factor App'
-date = 2024-08-07T22:22:06-03:00
-draft = false
-tags = ["Best Practices", "Software Development", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
-+++
+---
+title: 'The Twelve-Factor App'
+date: 2024-08-07T22:22:06-03:00
+draft: false
+tags: ["Best Practices", "Software Development", "Software Design", "Code Quality", "Code Maintenance", "Programming Principles"]
+
+resources:
+- name: "featured-image"
+  src: "twelve-factor-image.png"
+---
 
 # The Twelve-Factor App
 
