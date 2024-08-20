@@ -1,9 +1,12 @@
-+++
-title = 'Load Balancers: Optimizing System Performance and Availability'
-date = 2024-08-05T14:50:01-03:00
-draft = false
-tags = ["Software Design", "Distributed Systems", "Load Balancer", "Software Architecture", "High Availability"]
-+++
+---
+title: 'Load Balancers: Optimizing System Performance and Availability'
+date: 2024-08-05T14:50:01-03:00
+draft: false
+tags: ["Software Design", "Distributed Systems", "Load Balancer", "Software Architecture", "High Availability"]
+resources:
+- name: "featured-image"
+  src: "load_balancer.png"
+---
 
 # Load Balancers: Optimizing System Performance and Availability
 

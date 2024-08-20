@@ -1,9 +1,12 @@
-+++
-title = 'Load Balancer Algorithms: A Comprehensive Guide'
-date = 2024-08-05T14:56:43-03:00
-draft = false
-tags = ['System Architecture', 'Distributed Systems', "Load Balancer", "High Availability"]
-+++
+---
+title: 'Load Balancer Algorithms: A Comprehensive Guide'
+date: 2024-08-05T14:56:43-03:00
+draft: false
+tags: ['System Architecture', 'Distributed Systems', "Load Balancer", "High Availability"]
+resources:
+- name: "featured-image"
+  src: "load_balancer_algo.png"
+---
 
 # Load Balancer Algorithms: A Comprehensive Guide
 

@@ -1,9 +1,12 @@
-+++
-title = "DRY vs WET Code: A Comparative Study with Python and Go"
-date = 2024-08-05T15:09:19-03:00
-draft = false
-tags = ["DRY", "Code Quality", "Clean Code", "Programming Principles", "Software Design"]
-+++
+---
+title: "DRY vs WET Code: A Comparative Study with Python and Go"
+date: 2024-08-05T15:09:19-03:00
+draft: false
+tags: ["DRY", "Code Quality", "Clean Code", "Programming Principles", "Software Design"]
+resources:
+- name: "featured-image"
+  src: "dry_wet.png"
+---
 
 # DRY vs WET Code: A Comparative Study with Python and Go
 
