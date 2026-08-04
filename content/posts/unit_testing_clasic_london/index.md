@@ -3,10 +3,8 @@ title: 'A Deep Dive into Unit Testing: Classic vs. London Schools'
 date: 2024-08-08T11:24:15-03:00
 draft: false
 tags: ["Code Quality", "Code Maintenance", "Programming Principles", "Testing"]
-
-resources:
-- name: "featured-image"
-  src: "testing_classic_london.png"
+heroStyle: "big"
+showHero: true
 ---
 
 # A Deep Dive into Unit Testing: Classic vs. London Schools

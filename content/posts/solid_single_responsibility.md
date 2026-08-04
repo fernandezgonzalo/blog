@@ -89,8 +89,7 @@ func (u *User) SendWelcomeEmail() error {
 }
 ```
 
-{{< admonition type=example title="Class Diagram" open=false >}}
-{{< mermaid >}}
+```mermaid
 classDiagram
     %% Python
     class User {
@@ -100,8 +99,7 @@ classDiagram
         +save()
         +send_welcome_email()
     }
-{{< /mermaid >}}
-{{< /admonition >}}
+```
 
 These examples violate SRP by combining user data management, database operations, and email functionality in a single class.
 
@@ -192,8 +190,7 @@ func (s *EmailService) SendWelcomeEmail(user *User) error {
 }
 ```
 
-{{< admonition type=example title="Class Diagram" open=false >}}
-{{< mermaid >}}
+```mermaid
 classDiagram
     %% Python
     class User {
@@ -210,8 +207,7 @@ classDiagram
 %% Relationships
     UserRepository ..> User : uses
     EmailService ..> User : uses
-{{< /mermaid >}}
-{{< /admonition >}}
+```
 
 In these refactored examples, we've separated the concerns into distinct classes:
 - `User`: Represents user data
